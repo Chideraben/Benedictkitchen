@@ -6,7 +6,7 @@
 
 body {
   position: relative;
-  width: 375px;
+  
 }
 
 /* Utilities */
@@ -841,7 +841,7 @@ footer{
   display: none;
 }
 
-@media screen and (max-width:380px) {
+@media screen and (max-width:400px) {
   .media{
     display: block;
     width: 300px;
