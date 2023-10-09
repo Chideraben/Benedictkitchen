@@ -849,7 +849,7 @@ footer{
   display: none;
 }
 
-@media screen and (max-width:1390px) {
+@media screen and (max-width:400px) {
   .media{
     display: block;
     width: 300px;
