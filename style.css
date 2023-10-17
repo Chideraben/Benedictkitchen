@@ -1095,7 +1095,7 @@ footer{
    
   }
   .tabs-block{
-    width: 370px;
+    width: 270px;
   }
   .menu-block{
     display: block;
@@ -1610,6 +1610,7 @@ footer{
   padding-top: 12px;
   background-color: #FAFAFA;
 }
-
+.icon{
+  display:block;
 }
   
