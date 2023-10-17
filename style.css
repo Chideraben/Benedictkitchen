@@ -1611,6 +1611,8 @@ footer{
   background-color: #FAFAFA;
 }
 .icon{
-  display: none;
+  display: ;
+  background-color:green;
+  width:100px;
 }
   
