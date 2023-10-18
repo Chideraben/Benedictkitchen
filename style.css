@@ -874,7 +874,7 @@ footer{
     display: flex;
     justify-content: start;
     width: 375px;
-    position: fixed;
+    
     
     
     
@@ -888,7 +888,7 @@ footer{
     display: flex;
     justify-content:center ;
     align-items: center;
-    position:fixed;
+   
   }
   #sign{
     display: none;
