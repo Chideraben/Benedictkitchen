@@ -855,6 +855,7 @@ footer{
    padding: 0; 
    margin: 0%; 
    box-sizing: border-box; 
+   overflow : hidden;
  } 
  .media{
     display: block;
@@ -865,7 +866,7 @@ footer{
   }
   body{
     max-width: 375px;
-     overflow-y: hidden;
+
     
   }
   .nav{
