@@ -865,7 +865,7 @@ footer{
   }
   body{
     max-width: 375px;
-     overflow: hidden;
+     overflow-x: hidden;
     
   }
   .nav{
