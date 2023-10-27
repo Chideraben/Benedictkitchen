@@ -867,6 +867,7 @@ footer{
   }
   body{
     max-width: 375px;
+    overflow-x: hidden;
 
     
   }
