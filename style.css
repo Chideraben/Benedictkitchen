@@ -19,9 +19,7 @@ body {
   
   
 }
-.mobile-head{
-  display: none;
-}
+
 .nav-item{
   width: 100%;
   max-width: 1128px;
@@ -920,6 +918,10 @@ body {
     align-items: end;
     
     
+  }
+  .span{
+    display: flex;
+    gap:10px;
   }
   .centered {
     width: ;
