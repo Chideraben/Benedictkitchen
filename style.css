@@ -19,6 +19,9 @@ body {
   
   
 }
+#bar{
+  display: none;
+}
 
 .nav-item{
   width: 100%;
@@ -919,6 +922,9 @@ body {
     
     
   }
+  #bar{
+    display: block;
+    font-size: 24px;
   .span{
     display: flex;
     gap:20px;
