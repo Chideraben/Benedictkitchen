@@ -895,7 +895,7 @@ body {
     gap: 64px;
     background-color: white;
     display: flex;
-    justify-content:center ;
+    
     align-items: center;
   }
   #sign{
@@ -922,6 +922,7 @@ body {
   .span{
     display: flex;
     gap:20px;
+    font-size: 24px;
   }
   .centered {
     width: ;
